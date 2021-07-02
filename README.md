@@ -1,0 +1,1 @@
+# build-nft-collection-for-anime-series.
